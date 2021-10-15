@@ -15,6 +15,7 @@ public class MainClass {
 		//test2();
 		//test3();
 		test4();
+		//테스트
 	}//main
 	
 	//BeanFactory 패키지내부사용법
